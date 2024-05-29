@@ -1,6 +1,15 @@
 # Learning Path
 
 1. Generative AI Google Cloud course
+
+    - <https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi>
+    - <https://www.youtube.com/watch?v=jCrgzJlxTKg>
+    - <https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf>
+    - <https://research.google/blog/google-research-2022-beyond-language-vision-and-generative-models/#GenerativeModels>
+    - <https://blog.google/products/search/abcs-spelling-google-search/>
+    - Google Research, 2022 & Beyond
+    - PDF from Google
+
 2. Gemini APIs
 3. Vertex AI
 4. Gemini training
