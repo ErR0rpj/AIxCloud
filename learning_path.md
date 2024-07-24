@@ -3,6 +3,7 @@
 1. Generative AI Google Cloud course
 
     - <https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi>
+    - Watch this video after the above playlist to verify if you haven't missed anything: <https://www.youtube.com/watch?v=9jA0KjS7V_c&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=2>
     - <https://www.youtube.com/watch?v=jCrgzJlxTKg>
     - <https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf>
     - <https://research.google/blog/google-research-2022-beyond-language-vision-and-generative-models/#GenerativeModels>
