@@ -24,3 +24,5 @@ sudo apt-get update
 sudo apt-get install -y nginx
 ps auwx | grep nginx
 http://EXTERNAL_IP/
+
+After all the above configs the VM will not be reachable with the external IP still as the https and http firewalls are blocked and we can enable those from console by selecting the tags for http and https traffic or by command line can be found in cmd line file.
